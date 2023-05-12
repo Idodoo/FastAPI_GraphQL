@@ -1,0 +1,1 @@
+GraphQL learning path.A simple FastAPI + GraphQL project 
